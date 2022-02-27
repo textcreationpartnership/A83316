@@ -1,0 +1,442 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament Together with rules and directions concerning suspention from the sacrament of the Lords Supper in cases of ignorance and scandall. Also the names of such ministers and others that are appointed triers and judges of the ability of elders in the twelve classes within the province of London. Die Lunæ 20. Octob. 1645. Ordered by the Lords assembled in Parliament, that the ordinance, rules, and directions concerning suspension from the Lords Supper, with the names of the ministers and others to try the elders, be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+            <title>Proceedings. 1645-10-20.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83316</idno>
+            <idno type="STC">Wing E2099B</idno>
+            <idno type="STC">ESTC R212818</idno>
+            <idno type="EEBO-CITATION">99899605</idno>
+            <idno type="PROQUEST">99899605</idno>
+            <idno type="VID">154151</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154151)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2401:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament Together with rules and directions concerning suspention from the sacrament of the Lords Supper in cases of ignorance and scandall. Also the names of such ministers and others that are appointed triers and judges of the ability of elders in the twelve classes within the province of London. Die Lunæ 20. Octob. 1645. Ordered by the Lords assembled in Parliament, that the ordinance, rules, and directions concerning suspension from the Lords Supper, with the names of the ministers and others to try the elders, be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+                  <title>Proceedings. 1645-10-20.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Iohn Wright at the Kings Head in the old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Discipline --  Early works to 1800.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Ecclesiastical law --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154151:1" rendition="simple:additions"/>
+            <p>An ORDINANCE OF THE LORDS and COMMONS Aſſembled in Parliament. Together with Rules and Directions concerning Suſpention from the Sacrament of The Lords Supper In caſes of Ignorance and Scandall. Alſo the names of ſuch Miniſters and others that are appointed Triers and Judges of the ability of Elders in the twelve Claſſes within the Province of LONDON.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <opener>
+                           <date>
+                              <hi>Die Lunae</hi> 20. <hi>Octob.</hi> 1645.</date>
+                        </opener>
+                        <p>ORdered by the LORDS Aſſembled in Parliament, That the Ordinance, Rules, and Directions concerning Suſpenſion from the Lords Supper, with the names of the Miniſters and others to try the Elders, be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed for <hi>Iohn Wright</hi> at the Kings Head in the old Bayley. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:154151:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:154151:2"/>
+            <head>
+               <hi>Die Lunae,</hi> 20. <hi>Octob.</hi> 1645. An Ordinance of the LORDS and Commons aſſembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons conſide<g ref="char:EOLhyphen"/>ring the wonderfull providence of God in calling them to this great and difficult worke of re<g ref="char:EOLhyphen"/>forming and purging his Church and people, his guidance and manifeſt protection of them in it, doe acknowledge that never any of his ſervants ſince the foundation of the world had more high &amp; ſtrong engagements hearti<g ref="char:EOLhyphen"/>ly and ſincerely to endeavour the compleat eſtabliſhment of Purity and <g ref="char:V">Ʋ</g>nity in the Church of God then they have; they do there<g ref="char:EOLhyphen"/>fore
+<pb n="2" facs="tcp:154151:3"/>require all Miniſters and Elders, that they be carefull to walke with underſtanding in the Houſe of God, that by Example, Exhortations, and Admonitions, they endeavour to build up the people of the Lord in love, that with Humility and Meek<g ref="char:EOLhyphen"/>neſſe of ſpirit they adorne their holy Profeſ<g ref="char:EOLhyphen"/>ſion, and win ſoules to the love of the Truth. That they be diligent and faithfull in the Worke, as thoſe that muſt give an accompt: And where groſſe Ignorance or notorious Scandall ſhall appeare, for the remedy there<g ref="char:EOLhyphen"/>of, and to prevent the evils that may come thereby, The Lords and Commons doe Or<g ref="char:EOLhyphen"/>daine, and it is hereby Ordained, That the ſeverall Elderſhips reſpectively within their reſpective Bounds and Limits, have power to ſuſpend from the Sacrament of the Lords Supper all Ignorant and Scandalous perſons within the Rules hereafter following, and according to the ſaid Rules and Directions.</p>
+         </div>
+         <div type="rules">
+            <pb n="3" facs="tcp:154151:3"/>
+            <head>RULES and DIRECTIONS concer<g ref="char:EOLhyphen"/>ning ſuſpention from the <hi>Sacrament</hi> of the <hi>Lords Supper, in caſes of Ignorance.</hi>
+            </head>
+            <p n="1">1. <seg rend="decorInit">A</seg>Ll ſuch perſons who ſhall be admitted to the Sacrament of the Lords Supper ought to know that there is a God, that there is but one ever-living and true God, maker of Heaven and Earth, and Governour of all things; That this on<g ref="char:EOLhyphen"/>ly true God, is the God whom we worſhip; that this God is but one, yet three diſtinct Per<g ref="char:EOLhyphen"/>ſons, the Father, Son, and holy Ghoſt, all equally God.</p>
+            <p n="2">2 That God created man after his own Image, in know<g ref="char:EOLhyphen"/>ledge, righteouſneſſe, and true holineſſe; That by one man ſin entred into the world, and death by ſin, and ſo death paſſed upon all men, for that all have ſinned; That thereby they are all dead in treſpaſſes and ſins, and are by nature the children of wrath, and ſo lyable to eternall death, the wages of every ſin.</p>
+            <p n="3">3 That there is but one Mediator between God and man, the man Chriſt Jeſus, who is alſo over all, God bleſ<g ref="char:EOLhyphen"/>ſed for ever, neither is there ſalvation in any other; That he was conceived by the Holy Ghoſt, and borne of the Virgin <hi>Mary;</hi> That he dyed upon the croſſe to ſave his people from their ſins, That he roſe againe the third day from the dead, aſcended into Heaven, ſits at the right
+<pb n="4" facs="tcp:154151:4"/>hand of God, and makes continuall interceſſion for us, of whoſe fulneſs we receive all grace neceſſary to ſalvation.</p>
+            <p n="4">4 That Chriſt and his benefits are applyed onely by faith; That faith is the gift of God, and that we have it not of our ſelves, but it is wrought in us by the Word and Spirit of God.</p>
+            <p>That faith is that grace whereby we beleeve and truſt in Chriſt for remiſſion of ſins and life everlaſting, accor<g ref="char:EOLhyphen"/>ding to the promiſe of the Goſpel, that whoſoever be<g ref="char:EOLhyphen"/>lieves not on the Son of God, ſhall not ſee life, but ſhall periſh eternally.</p>
+            <p>That they who truly repent of their ſins, do ſee them, ſorrow for them, and turne from them, to the Lord, and that except men repent they ſhall ſurely periſh.</p>
+            <p>That a godly life is conſcionably ordered according to the Word of God, in Holineſſe and Righteouſneſſe, with<g ref="char:EOLhyphen"/>out which no man ſhall ſee God.</p>
+            <p>That the Sacraments are Seales of the Covenant of Grace in the blood of Chriſt: That the Sacraments of the New Teſtament are Baptiſm and the Lords Supper, that the outward Elements in the Lords Supperare Bread and Wine, and do ſignifie the Body and Blood of Chriſt Cru<g ref="char:EOLhyphen"/>cified, which the worthy receiver by faith doth partake of in this Sacrament, which Chriſt hath likewiſe ordai<g ref="char:EOLhyphen"/>ned for the remembrance of his death, that whoſoever eats and drinkes unworthily, is guilty of the Body and Blood of the Lord, and therefore that every one is to examine him ſelfe, leſt he eat and drink judgement to himſelfe, not diſcerning the Lords Body.</p>
+            <p>That the ſoules of the faithfull after death doe imme<g ref="char:EOLhyphen"/>diately live with Chriſt in bleſſedneſſe, and that the ſouls of the wicked doe immediately goe into Hell torments. That there ſhall be a Reſurrection of the Bodies, both of
+<pb n="5" facs="tcp:154151:4"/>the juſt and unjuſt at the laſt Day, at which time all ſhall appeare before the Judgement Seat of Chriſt, to receive according to what they have done in the body, whether it be good or evill: And that the righteous ſhal go into life eternall, and the wicked into everlaſting puniſhment.</p>
+            <p>And it is further ordained by the Lords and Commons, that thoſe who have a competent meaſure of underſtan<g ref="char:EOLhyphen"/>ding concerning the matters contained in theſe Articles ſhall not be kept back from the Sacrament of the Lords Supper for Ignorance; And that the Examination and judgement of ſuch perſons as ſhall for their ignorance of the aforeſaid points of Religion not be admitted to the Sacrament of the Lords Supper, is to be in the power of the Elderſhip of every Congregation.</p>
+         </div>
+         <div type="rules">
+            <head>Rules and Directions concerning Suſ<g ref="char:EOLhyphen"/>penſion from the Sacrament of the Lords <hi>Supper, in caſes of Scandall.</hi>
+            </head>
+            <p>THe ſeveral and reſpective Elderſhips ſhal have power to ſuſpend from the Sacrament of the Lords Supper all ſcandalous perſons hereafter mentioned, appearing to be ſuch upon juſt proofe thereof made, in ſuch manner as is by this preſent Ordinance hereafter appointed, and not otherwiſe, untill it be otherwiſe declared by both Houſes of Parliament how notoriouſly ſcandalous Per<g ref="char:EOLhyphen"/>ſons, other then ſuch as are herein expreſſed, ſhal be kept from the Sacrament of the Lords Supper: That is to ſay; All perſons that ſhall blaſphemouſly ſpeak or write any thing of God, his holy Word, or Sacraments. An Inceſtu<g ref="char:EOLhyphen"/>ous perſon. An Adulterer. A Fornicator. A Drunkard. A prophane ſwearer or curſer. One that hath taken away the life of any Perſon maliciouſly. All worſhippers of
+<pb n="6" facs="tcp:154151:5"/>Images, Croſſes, Crucifixes, of Reliques; all that ſhall make any Images of the Trinity, or of any Perſon there<g ref="char:EOLhyphen"/>of. All Religious worſhipers of Saints, Angels, or any meere Creature. Any perſon that ſhall profeſſe himſelfe not to be in charity with his Neighbour. Any Perſon that ſhall challenge any other perſon by Word, Meſſage, or Writing, to fight, or that ſhall accept ſuch challenge and agree thereto. Any Perſon that ſhall knowingly carry any ſuch challenge by word, meſſage, or writing. Any perſon that ſhall upon the Lords Day uſe any Dan<g ref="char:EOLhyphen"/>cing, playing at Dice, or Cards, or any other Game; Maſ<g ref="char:EOLhyphen"/>king, Wake, Shooting, Bowling, playing at Foot-ball, or Stool-ball, Wreſtling, or that ſhall make, or reſort unto any Playes, Interludes, Fencing, Bul-baiting, or Beare<g ref="char:EOLhyphen"/>baiting, or that ſhall uſe Hawking, Hunting, or Courſing, Fiſhing, or Fowling, or that ſhall publikely expoſe any Wares to ſale<g ref="char:punc">▪</g> otherwiſe then as is provided by an Or<g ref="char:EOLhyphen"/>dinance of Parliament of the 6. of <hi>April.</hi> 1644. Any perſon that ſhall travell on the Lords Day without rea<g ref="char:EOLhyphen"/>ſonable cauſe. Any Perſon that keepeth a known Stewes or Brothel-houſe, or that ſhall ſolicite the chaſtity of any perſon for himſelfe or any other. Any perſon, Father or Mother, that ſhall conſent to the marriage of their childe to a Papiſt, or any perſon that ſhall marry a Papiſt. Any perſon that ſhall repaire for any advice unto any Witch, Wizard, or Fortune-teller. Any perſon that ſhall aſſault his Parents, or any Magiſtrate, Miniſter, or Elder in the execution of his Office. Any perſon that ſhall be legally attainted of Barretry, Forgery, Extortion, or Bribery. And the ſeverall and reſpective Elderſhips ſhall have power likewiſe to ſuſpend from the Sacrament of the Lords Supper all Miniſters that ſhall be duely proved to be guil<g ref="char:EOLhyphen"/>ty of any of the crimes aforeſaid, from giving or recei<g ref="char:EOLhyphen"/>ving the <hi>Sacrament</hi> of the Lords <hi>Supper.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:154151:5"/>
+And it is further ordained by the Lords and Commons, That the Elderſhip of every Congregation ſhall have power to examine any perſon complained of for any matter of ſcandall aforeſaid, and upon confeſſion of the party before the Elderſhip to have committed ſuch an offence, to ſuſpend any ſuch perſon from the Sacra<g ref="char:EOLhyphen"/>ment of the Lords Supper. The Elderſhip of every Congregation ſhall examine upon oath ſuch witneſſes as ſhall be produced before them, either for the acquitting or condemning of the party accuſed of any of the ſcan<g ref="char:EOLhyphen"/>dalous crimes aforeſaid, not capitall. The Elderſhip of every Congregation ſhall judge the matter of ſcandall aforeſaid, being not capitall, upon the teſtimony of two credible witneſſes, at the leaſt. Satisfaction ſhall be given to the Elderſhip of every Congregation by ſufficient ma<g ref="char:EOLhyphen"/>nifeſtation of the Offenders repentance before a perſon lawfully convicted of ſuch matters of ſcandall as afore<g ref="char:EOLhyphen"/>ſaid, and thereupon ſuſpended from the Sacrament of the Lords Supper be admitted thereunto. If any perſon ſuſpended from the Lords Supper ſhall finde himſelfe grieved with the proceedings before the Elderſhip of a<g ref="char:EOLhyphen"/>ny Congregation, he ſhall have liberty to appeale to the Claſſicall Elderſhip, and from thence to the Provinciall Aſſembly, from thence to the Nationall, and from thence to the Parliament. And be it further ordained by the Lords and Commons, That the ſeverall and re<g ref="char:EOLhyphen"/>ſpective Elderſhips in their ſeverall reſpective proceed<g ref="char:EOLhyphen"/>ings ſhall obſerve theſe enſuings cautions.</p>
+            <p>
+               <hi>Caution</hi> 1. That cognizance and examination of any capitall offence ſhall be by the Magiſtrate thereunto ap<g ref="char:EOLhyphen"/>pointed by the Law of the Kingdome, who if he ſhall commit the party queſtioned to priſon, or ſecure him or her by baile, he ſhall there of make a certificate unto
+<pb n="8" facs="tcp:154151:6"/>the Elderſhip of the Congregation where he or ſhe did laſt reſide, or to any other neighbouring Elderſhip, who ſhall thereupon have power to ſuſpend the party from the Sacrament of the Lords Supper.</p>
+            <p n="2">2 The Presbetery or Elderſhip ſhall not have cogni<g ref="char:EOLhyphen"/>zance of any thing wherein any matter of payment, con<g ref="char:EOLhyphen"/>tract, or demand is concerned or of any matter of con<g ref="char:EOLhyphen"/>veyance, title, intereſt, or property, in Lands or Goods.</p>
+            <p n="3">3 No uſe ſhall be made of any confeſſion or proofe made before the Elderſhip at any triall at Law of any perſon for any offence.</p>
+            <p>And it is further ordained, that the Members of both Houſes that now are members of the aſſembly of divines or any ſeven of them be a ſtanding Committee of both Houſes of Parliament, to conſider of cauſes of ſuſ<g ref="char:EOLhyphen"/>penſion from the Sacrament of the Lords Supper, not contained in this Ordinance; unto which Committee any Elderſhip ſhall preſent ſuch cauſes, to the end that the Parliament, if need require, may heare and determine the ſame. That if any other notorious and ſcandalous ſinnes beſides thoſe nominated in this Ordinance, which may be conceived to be a cauſe to ſuſpend from the Lords Supper ſhall be certified to any Claſſis either from any Congregationall Elderſhip, or otherwiſe, which the ſaid Claſſis ſhall thinke fit, to preſent to the ſtanding Committee of Parliament. That the ſaid Claſſis ſhall preſent the ſame to the ſaid Committee, to the end that the Parliament if need require may heare and determine the ſame.</p>
+         </div>
+         <div type="list_of_judges">
+            <pb n="9" facs="tcp:154151:6"/>
+            <head>
+               <hi>Die Veneris</hi> 26. Sept. 1646. A Liſt of the names of ſuch Perſons as ſhall be, and are hereby Ordeyned to be Try<g ref="char:EOLhyphen"/>ers and Judges of the Integrity and Ability of ſuch as are to be choſen Elders in the Twelve Claſſis within the Province of <hi>London,</hi> and of the dueneſſe of their Election, according to ſuch Rules and Directions as have formerly paſſed both Houſes in that behalfe</head>
+            <div n="1" type="ecclesiastical_court">
+               <head>The firſt Claſſis</head>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>DOctor <hi>William Gouge</hi> of Black-Friers.</item>
+                  <item>Mr. <hi>George Walker</hi> of John Evangeliſt.</item>
+                  <item>Mr. <hi>Lazarus Seaman</hi> of Alhallowes in Breadſtreet.</item>
+               </list>
+               <list>
+                  <head>Others.</head>
+                  <item>Mr. <hi>Richard Brown</hi> Eſquire of Black-Friers.</item>
+                  <item>Mr. <hi>Richard Turner</hi> Senior of Auſtins Pariſh.</item>
+                  <item>Mr. <hi>William Kendall</hi> of Alhallowes in Breadſtreat.</item>
+                  <item>
+                     <hi>John Clarke</hi> Doctor of Phiſick of Martins Ludgate.</item>
+                  <item>Mr. <hi>Tho. Steines</hi> of Mildred Breadſtreet.</item>
+                  <item>Mr. <hi>Chriſtopher Merideth</hi> of Faiths.</item>
+               </list>
+            </div>
+            <div n="2" type="ecclesiastical_court">
+               <head>The ſecond Claſſis.</head>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. <hi>William Reyner</hi> of John Baptiſts.</item>
+                  <item>Mr. <hi>Charles Of-ſpring</hi> of Antholins.</item>
+                  <item>Mr. <hi>William Thomas</hi> of Pancras Soperlane.</item>
+               </list>
+               <list>
+                  <pb n="10" facs="tcp:154151:7"/>
+                  <head>Others.</head>
+                  <item>Mr. <hi>Alex. Jones</hi> of John Baptiſts.</item>
+                  <item>Mr. <hi>Ralph Triplet</hi> of Nicholas Cole-Abby.</item>
+                  <item>Mr. <hi>Thomas Coffin</hi> of Michael Royall.</item>
+                  <item>Mr. <hi>Iames Hayes</hi> of Bennet Sheerhogge.</item>
+                  <item>Mr. <hi>Iohn Cock</hi> of James Garlickhith.</item>
+                  <item>Mr. <hi>Philip Owen</hi> of Mary Magdalins Old Fiſhſtreet.</item>
+               </list>
+            </div>
+            <div n="3" type="ecclesiastical_court">
+               <head>The third Claſſis.</head>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. <hi>Humphrey Chambers</hi> of Stephens Walbrook.</item>
+                  <item>Mr. <hi>Iohn Rawlinſon</hi> of Mary Abchurch.</item>
+                  <item>Mr. <hi>Iohn Cardell</hi> of Alhallowes Lumbardſtreet.</item>
+               </list>
+               <list>
+                  <head>Others.</head>
+                  <item>Mr. <hi>Iohn Warner</hi> Alderman, of Stephens Walbrooke.</item>
+                  <item>Mr. <hi>Robert Sweet</hi> of Mary Wolnoth.</item>
+                  <item>Mr. <hi>Michael Herring</hi> of Mary Woolchurch.</item>
+                  <item>Mr. <hi>Richard Young</hi> of Alhallowes Lumbarſtreete.</item>
+                  <item>Mr. <hi>Richard Warner</hi> of Mary Abchurch.</item>
+                  <item>Mr. <hi>Robert Meade</hi> of Laurence Pountney.</item>
+               </list>
+            </div>
+            <div n="4" type="ecclesiastical_court">
+               <head>The fourth Claſſis.</head>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. <hi>Iohn Lee</hi> of Mary on the Hill.</item>
+                  <item>Mr. <hi>Ioſeph Carill</hi> of Magnus.</item>
+                  <item>M. <hi>Fulk Bellers</hi> of Michael Cornehill.</item>
+               </list>
+               <list>
+                  <head>Others.</head>
+                  <item>Mr. <hi>Iames Bunce</hi> Alderman, of Bennet Grace church.</item>
+                  <item>Mr. <hi>Edward Hooker</hi> of Mary on the Hill.</item>
+                  <item>Mr. <hi>Iohn Bellamy</hi> of Michael Cornehill.</item>
+                  <item>Mr. <hi>Iohn Gaſe</hi> of Andrew in Hubbert.</item>
+                  <item>Mr. <hi>Iohn Hatler</hi> of Magnes.</item>
+                  <item>Mr. <hi>William Bramwitch</hi> of Peters Cornehill.</item>
+               </list>
+            </div>
+            <div n="5" type="ecclesiastical_court">
+               <pb n="11" facs="tcp:154151:7"/>
+               <head>The fifth Claſſis.</head>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. <hi>Iohn Conant</hi> of Botolph Alderſgate.</item>
+                  <item>Mr. <hi>Anthony Tuckney</hi> of Michael at Corne, alias Querne.</item>
+                  <item>Mr. <hi>Simon Aſhe</hi> of Brides.</item>
+               </list>
+               <list>
+                  <head>Others.</head>
+                  <item>Sir <hi>Iohn Wollaſtone</hi> Knight, of Iohn Zacharies.</item>
+                  <item>Mr. <hi>Edward Honywood</hi> of Michael at Corne, alias Querne.</item>
+                  <item>Mr. <hi>William Hart</hi> of Chriſtchurch.</item>
+                  <item>Mr. <hi>John Iohnſon</hi> of Botolph Alderſgate.</item>
+                  <item>Mr. <hi>Richard Flood</hi> of Peters Cheape.</item>
+                  <item>Mr. <hi>Iohn Sherman</hi> of Anne Alderſgate.</item>
+               </list>
+            </div>
+            <div n="6" type="ecclesiastical_court">
+               <head>The ſixth Claſſis.</head>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. <hi>Edmund Calamy</hi> of Mary Aldermanbury.</item>
+                  <item>Mr. <hi>Iohn Arrowſmith</hi> of Martins Iremongerlane.</item>
+                  <item>Mr. <hi>Arthur Iackson</hi> of Michael Woodſtreete.</item>
+               </list>
+               <list>
+                  <head>Others.</head>
+                  <item>Mr. <hi>Walter Boothbey</hi> of Mary Aldermanbury.</item>
+                  <item>Mr. <hi>William Webb</hi> of Martins Iremongerlane.</item>
+                  <item>Mr. <hi>William Bisby</hi> of Laurence Jury.</item>
+                  <item>Mr. <hi>Thomas Bregſtwell.</hi> Giles Cripplegate.</item>
+                  <item>Mr. <hi>Robert Manwaring.</hi> Giles Cripplegate.</item>
+                  <item>Mr. <hi>Laurence Brinley</hi> of Mary Magdalens Milkſtreete.</item>
+               </list>
+            </div>
+            <div n="7" type="ecclesiastical_court">
+               <head>The ſeventh Claſſis.</head>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. <hi>Robert Harris</hi> of Botolph Biſhopſgate.</item>
+                  <item>Mr. <hi>Samuel Clarke</hi> of Bennet Fynk.</item>
+                  <item>Mr. <hi>Charles Newton,</hi> of Michael Baſinſhaw.</item>
+                  <item>Mr. <hi>Leonard Cooke.</hi> of Michael Baſinſhaw.</item>
+               </list>
+               <list>
+                  <pb n="12" facs="tcp:154151:8"/>
+                  <head>Others.</head>
+                  <item>Mr. <hi>Chriſtopher Packe,</hi> of Michael Baſingſhaw.</item>
+                  <item>Mr. <hi>James Ruſſell</hi> of Stephens Coleman-ſtreet.</item>
+                  <item>Mr. <hi>William Williamſon,</hi> of Chriſtophers.</item>
+                  <item>Mr. <hi>Robert Launt,</hi> of Peters poore.</item>
+                  <item>Mr. <hi>Iames Story</hi> of Bennet Fynk.</item>
+                  <item>Mr. <hi>Samuel Harſnet,</hi> of Bartholomew Exchange.</item>
+               </list>
+            </div>
+            <div n="8" type="ecclesiastical_court">
+               <head>The eight Claſſis.</head>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. <hi>William Spurſtow,</hi> of Hackney.</item>
+                  <item>Mr. <hi>Thomas Porter,</hi> of Katherine Creed-Church.</item>
+                  <item>Mr. <hi>Elidad Blackwell,</hi> of Andrew-Underſhaft.</item>
+               </list>
+               <list>
+                  <head>Others.</head>
+                  <item>Sir <hi>David Watkins,</hi> Knight. <hi>of</hi> Andrew Underſhaft.</item>
+                  <item>Mr <hi>Iohn Smith. of</hi> Andrew Underſhaft.</item>
+                  <item>Mr. <hi>George Clarke</hi> of Hackney.</item>
+                  <item>Mr. <hi>Richard Shute,</hi> of Cree-church.</item>
+                  <item>Mr. <hi>Alexander Bence,</hi> of Algate.</item>
+                  <item>Mr. <hi>Thomas Hutchins,</hi> of Hellens.</item>
+               </list>
+            </div>
+            <div n="9" type="ecclesiastical_court">
+               <head>The ninth Claſſis.</head>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. <hi>Thomas Clandon, of</hi> Alhollowes Barking.</item>
+                  <item>Mr. <hi>Thomas Valentine, of</hi> Mary Whitchurch.</item>
+                  <item>Mr. <hi>Thomas Carter, of</hi> Olaves Hart-ſtreet.</item>
+               </list>
+               <list>
+                  <head>Others.</head>
+                  <item>Sir <hi>Edward Harrington</hi> Knight <hi>of</hi> Olaves Hart-ſtreet.</item>
+                  <item>Mr. <hi>Francis Weſt,</hi> Lievtenant of the Tower.</item>
+                  <item>Mr. <hi>Edmund Trench, of</hi> Alhallowes Staining.</item>
+                  <item>Mr. <hi>Maurice Thomptſon of</hi> Dunſtans Eaſt.</item>
+                  <item>Mr. <hi>Stafford Clare of</hi> Dunſtans Eaſt.</item>
+                  <item>Mr. <hi>Salomon Smith, of</hi> Katherine Tower.</item>
+               </list>
+            </div>
+            <div n="10" type="ecclesiastical_court">
+               <pb n="13" facs="tcp:154151:8"/>
+               <head>The tenth Claſſis.</head>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. <hi>Thomas Gataker, of</hi> Rotherhithe.</item>
+                  <item>Mr. <hi>Jeremy Whitaker, of</hi> Mary Magdalen Bermonſey.</item>
+                  <item>Mr. <hi>Samuel Bolton, of</hi> Mary Overy.</item>
+               </list>
+               <list>
+                  <head>Others.</head>
+                  <item>Mr. <hi>Thomas Hudſon, of</hi> Georges Southwarke.</item>
+                  <item>Mr. <hi>George Snelling, of</hi> Olaves Southwarke.</item>
+                  <item>Mr. <hi>Robert Haughton, of</hi> Olaves Southwarke.</item>
+                  <item>Mr. <hi>George Thompſon, of</hi> Olaves Southwarke.</item>
+                  <item>Mr. <hi>Daniel Santon, of</hi> Mary Overy.</item>
+                  <item>Mr. <hi>Henry Helmer, of</hi> Mary Magdalen Bermonſey.</item>
+               </list>
+            </div>
+            <div n="11" type="ecclesiastical_court">
+               <head>The eleventh Claſſis.</head>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. <hi>Harbert Palmer, of</hi> New-Church Weſtminſter.</item>
+                  <item>Mr. <hi>Richard Vines, of</hi> Clements Danes.</item>
+                  <item>Mr. <hi>Henry Corniſh, of</hi> Giles in the fields.</item>
+                  <item>Mr. <hi>Cawdry, of</hi> Martins in the fields.</item>
+                  <item>Mr. <hi>Gibſon, of</hi> Margarets Weſtminſter.</item>
+               </list>
+               <list>
+                  <head>Others.</head>
+                  <item>Sir <hi>William Aſhton. of</hi> Weſtminſter.</item>
+                  <item>Mr. <hi>Iohn Packer. of</hi> Weſtminſter.</item>
+                  <item>Mr. <hi>Thomas Fauconbridg of</hi> Weſtminſter.</item>
+                  <item>Mr. <hi>Laurence Swetnam. of</hi> Weſtminſter.</item>
+                  <item>Mr. <hi>John Briham. of</hi> Weſtminſter.</item>
+                  <item>Mr. <hi>George Pryn. of</hi> Weſtminſter.</item>
+                  <item>Mr. <hi>Edward Martin. of</hi> Weſtminſter.</item>
+                  <item>Mr. <hi>James Prince,</hi> of Clement Danes.</item>
+                  <item>Mr. <hi>Silvanus Taylor,</hi> of Clement Danes.</item>
+                  <item>Mr. <hi>Walter Biggs, of</hi> Giles in the fields.</item>
+                  <item>Mr. <hi>Edward Carter, of</hi> Covent Garden.</item>
+               </list>
+            </div>
+            <div n="12" type="ecclesiastical_court">
+               <pb facs="tcp:154151:9" rendition="simple:additions"/>
+               <head>The twelfth Claſſis.</head>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. <hi>Obadiah Sedgſwick,</hi> of Andrewes Holborne.</item>
+                  <item>Mr. <hi>Immanuell Bourne, of</hi> Sepulchres.</item>
+                  <item>Mr. <hi>Andrew Perne, of</hi> Dunſtons Weſt.</item>
+               </list>
+               <list>
+                  <head>Others.</head>
+                  <item>Mr. <hi>Roger Drake,</hi> Dr. of Phiſick, <hi>of</hi> Andrewes Holborn.</item>
+                  <item>Mr. <hi>William Ieſop, of</hi> Andrewes Holborn.</item>
+                  <item>Mr. <hi>Thomas Smith, of</hi> Sepulchres.</item>
+                  <item>Mr. <hi>Nathaniel Camfield, of</hi> Sepulchres.</item>
+                  <item>Mr. <hi>William Ball, of</hi> Dunſtons Weſt.</item>
+                  <item>Mr. <hi>Francis Allen, of</hi> Dunſtons Weſt.</item>
+               </list>
+            </div>
+            <div type="resolution">
+               <head>Reſolved by the Lords and Commons in Parliament aſſembled:</head>
+               <p>
+                  <hi>THat in all theſe twelve Claſſes, that which ſhall be done by the major part of the Triers that be preſent, (not being under the number of ſeven in each Claſſis) ſhall be eſteemed as the act of all the Triers of that Claſſis.</hi>
+               </p>
+            </div>
+            <div type="resolution">
+               <head>Reſolved, &amp;c.</head>
+               <p>
+                  <hi>That the Peeres and aſſiſtants of the houſe of Peeres ſhall be Triers with<g ref="char:EOLhyphen"/>in that Claſſis whereof the Pariſh wherein they live is a part.</hi>
+               </p>
+            </div>
+            <div type="resolution">
+               <head>Reſolved, &amp;c.</head>
+               <p>
+                  <hi>That all the Members of the houſe of Commons ſhall be Try<g ref="char:EOLhyphen"/>ers within that Claſſis whereof the pariſh wherein they live is a part.</hi>
+               </p>
+            </div>
+            <div type="order">
+               <head>
+                  <hi>Die Martis,</hi> 14. <hi>Octob.</hi> 1645.</head>
+               <p>ORdered by the Lords and Commons in Parliament aſſembled, That Dr. <hi>William Gouge, Andrew Perne</hi> Miniſter of Dunſtons Weſt, <hi>Samuel Browne</hi> Eſquire, <hi>Edmund Prideaux</hi> Eſquire, <hi>William Ellys</hi> Eſquire, <hi>William Prynne</hi> Eſquire, ſhall be Tryers and Judges of ſuch per<g ref="char:EOLhyphen"/>ſons as ſhall be choſen to be Elders for the Claſſis of the two Serjants Innes.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:154151:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
